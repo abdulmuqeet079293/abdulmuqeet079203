@@ -16,7 +16,7 @@ Currently pursuing my **B.Tech in Computer Science & Engineering (AI & ML)** at 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, C, Python, JavaScript, HTML, CSS  
+**Languages:** Java, C, Python, HTML, CSS  
 **Machine Learning:** TensorFlow, Keras, PyTorch, YOLO  
 **Concepts:** Data Structures & Algorithms, Graph Theory, Dynamic Programming  
 **Computer Vision:** Image Processing, CNNs, Object Detection, Image Classification  
